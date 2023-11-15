@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "create_time": "2023-11-15T23:08:28.272059",
+    "name": "Birthday",
+    "date": "2022-12-27",
+    "time": "15:00",
+    "number_of_participants": 15,
+    "location": "Yuma",
+    "description": null,
+    "tags": [
+      ""
+    ],
+    "forecast": null
+  }
+]
