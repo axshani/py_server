@@ -22,5 +22,5 @@ def test_add_event():
         }
 
     response = client.post("/events", data=e)
-    assert response.status_code == 400
+    assert response.status_code == 200
     assert response.json()["name"] == e["name"]
